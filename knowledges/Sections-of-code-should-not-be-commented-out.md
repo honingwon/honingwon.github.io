@@ -1,0 +1,5 @@
+> Programmers should not comment out code as it bloats programs and reduces readability. Unused code should be deleted and can be retrieved from source control history if required.
+
+# See
+- sonar flex plugin rule
+-
